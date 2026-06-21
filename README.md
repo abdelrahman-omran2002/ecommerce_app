@@ -1,17 +1,27 @@
-# ecommerce_app
+# 🛒 E-Commerce App
 
-A new Flutter project.
+A full-featured e-commerce mobile app built with Flutter using Clean Architecture and BLoC pattern.
 
-## Getting Started
+## ✨ Features
+- Browse products from real API
+- Product details screen
+- Add to cart & remove from cart
+- Total price calculation
+- Clean and modern UI
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack
+- Flutter & Dart
+- BLoC State Management
+- REST API & Dio
+- Clean Architecture
+- DummyJSON API
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots
+<img src="screenshots/products_screen.png" width="250">
+<img src="screenshots/product_details_screen.png" width="250">
+<img src="screenshots/cart_screen.png" width="250">
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+1. Clone the repo
+2. Run `flutter pub get`
+3. Run `flutter run`
